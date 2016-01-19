@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class StringUtils {
-
+	//DSLN
 	private static SimpleDateFormat dateFormat = new SimpleDateFormat(
 			"EEE, dd MMM yyyy HH:mm:ss zzz");
 
